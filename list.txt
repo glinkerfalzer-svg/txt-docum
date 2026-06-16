@@ -1,43 +1,298 @@
-
-2.Robert_Hovton -- https://steamcommunity.com/profiles/76561199219012588
-3.Акромегалия -- STEAM_1:1:765374710
-4.valeriyukrain -- STEAM_1:1:924996635
-5.LLLCATED --
-6.Nentella -- https://steamcommunity.com/id/Nentella_steam/
-7.Lenny -- https://steamcommunity.com/id/Lennyyn/
-8.Alex Nash -- https://steamcommunity.com/profiles/76561198319151729
-9.Vax -- https://steamcommunity.com/id/vaxpax/
-10..ЛЮХА!42_69! --
-11.Отморозь -- https://steamcommunity.com/profiles/76561198821462297
-12.Перекрут проводов -- https://steamcommunity.com/profiles/76561199049172093
-13.Regur -- https://steamcommunity.com/id/7915088581343283
-14.Zivk -- https://steamcommunity.com/profiles/76561199163065919
-15.подзалупий -- https://steamcommunity.com/profiles/76561199427136273
-16.RobloxPlayer2010 -- https://steamcommunity.com/profiles/76561199028900705
-17.FORTNITE_PLAYER_2012 -- https://steamcommunity.com/id/memorandumofukraine/
-18.adkrasov11 -- https://steamcommunity.com/profiles/76561199863282330
-19.guso_char -- https://steamcommunity.com/profiles/76561199120876208
-20.NoWayToWin -- https://steamcommunity.com/id/dani4tytx/
-21.Demid -- https://steamcommunity.com/profiles/76561199474290386
-23.Мамочка Шмэгуэ -- https://steamcommunity.com/id/7778469942931743213216/
-24.Ryan Gosling -- https://steamcommunity.com/profiles/76561199629199954
-25.Капитан молочный зубик -- https://steamcommunity.com/profiles/76561198883897350
-26.Kolyalotok -- https://steamcommunity.com/profiles/76561199073671002
-27.Лягушка-попрыгуш -- https://steamcommunity.com/profiles/76561198752757326
-28.Рептилойд -- https://steamcommunity.com/profiles/76561199108712831
-29.JUSTRIP -- https://steamcommunity.com/profiles/76561199057256251
-30.laka -- https://steamcommunity.com/profiles/76561198740832618
-31.Ярослав (Stilport26) -- https://steamcommunity.com/id/979767
-32.Уиил Смит -- https://steamcommunity.com/id/w1nlogon/
-33.Товарищь Майор -- https://steamcommunity.com/profiles/76561199079361558
-34.Harry Potter -- https://steamcommunity.com/id/Astro1247/
-35.Альфонс -- https://steamcommunity.com/profiles/76561198031312706
-36.Склизкий Джо -- https://steamcommunity.com/id/poohuevali/
-37.DreamScape -- https://steamcommunity.com/id/Wolf_Akuma/
-38.алло гаргамель -- https://steamcommunity.com/profiles/76561199479359163
-39.бабшука шмегуэ -- https://steamcommunity.com/id/76467243242435103
-40.Маркуш -- https://steamcommunity.com/id/7656119908997309/
-41.slavenum13 -- https://steamcommunity.com/profiles/76561199066597381
-42.Гойда -- https://steamcommunity.com/profiles/76561199445072402
-43.Harvey -- https://steamcommunity.com/profiles/76561199583289196
-44.Alukard -- https://steamcommunity.com/profiles/76561199016762458
+{
+  "players": [
+    {
+      "id": "76561199219012588",
+      "name": "Robert_Hovton",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "2"
+    },
+    {
+      "id": "76561198725640440",
+      "name": "Акромегалия",
+      "reason": "Обвинение в: Руинерстве, токсичности",
+	  "action": "ban",
+	  `dbId`: "3"
+    },
+    {
+      "id": "76561198885262365",
+      "name": "valeriyukrain",
+      "reason": "Обвинение в: Руинерстве, чрезмерной агрессии",
+	  "action": "ban",
+	  `dbId`: "4"
+    },
+    {
+      "name": "LLLCATED",
+      "reason": "Обвинение в: Руинерство, токсичность",
+	  `mode`: `ban_or_life`,
+	  `delaySeconds`: 30,
+	  `dbId`: "5"
+    },
+    {
+	  "id": "76561199590876375",
+      "name": "Nentella",
+      "reason": "Обвинение в: Руинертсве",
+	  "action": "ban",
+	  `dbId`: "8"
+    },
+    {
+	  "id": "76561199133270827",
+      "name": "Lenny",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "9"
+    },
+    {
+      "id": "76561198319151729",
+      "name": "Alex Nash",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "10"
+    },
+    {
+	  "id": "76561199267392937",
+      "name": "Vax",
+      "reason": "Обвинение в: Руинерстве, токсичности",
+	  "action": "ban",
+	  `dbId`: "11"
+    },
+    {
+      "name": ".ЛЮХА!42_69!",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "12"
+    },
+    {
+      "id": "76561198821462297",
+      "name": "Отморозь",
+      "reason": "Обвинение в: Руинерстве, токсичности",
+	  "action": "ban",
+	  `dbId`: "13"
+    },
+    {
+      "id": "76561199049172093",
+      "name": "Перекрут проводов",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "15"
+    },
+    {
+      "name": "Regur",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "16"
+    },
+    {
+      "id": "76561199163065919",
+      "name": "Zivk",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "18"
+    },
+    {
+      "id": "76561199427136273",
+      "name": "подзалупий",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "19"
+    },
+    {
+      "id": "76561199028900705",
+      "name": "RobloxPlayer2010",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "21"
+    },
+    {
+	  "id": "76561198189089662",
+      "name": "FORTNITE_PLAYER_2012",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "22"
+    },
+    {
+      "id": "76561199863282330",
+      "name": "adkrasov11",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "24"
+    },
+    {
+      "id": "76561199120876208",
+      "name": "guso_char",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "25"
+    },
+    {
+	  "id": "76561198176414469",
+      "name": "NoWayToWin",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "26"
+    },
+    {
+      "id": "76561199474290386",
+      "name": "Demid",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "27"
+    },
+    {
+      "name": "Мамочка Шмэгуэ",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "29"
+    },
+    {
+      "id": "76561199629199954",
+      "name": "Ryan Gosling",
+      "reason": "Обвинение в: Токсичности",
+	  "action": "ban",
+	  `dbId`: "30"
+    },
+    {
+      "id": "76561198883897350",
+      "name": "Капитан молочный зубик",
+      "reason": "Обвинение в: Токсичности",
+	  "action": "ban",
+	  `dbId`: "31"
+    },
+    {
+      "id": "76561199073671002",
+      "name": "Kolyalotok",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "33"
+    },
+    {
+      "id": "76561198752757326",
+      "name": "Лягушка-попрыгуш",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "34"
+    },
+    {
+      "id": "76561199108712831",
+      "name": "Рептилойд",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "35"
+    },
+    {
+      "id": "76561199057256251",
+      "name": "JUSTRIP",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "36"
+    },
+    {
+      "id": "76561198740832618",
+      "name": "laka",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "37"
+    },
+    {
+	  "id": "76561198276153952",
+      "name": "Ярослав (Stilport26)",
+      "reason": "Обвинение в: Агрессии, руинерстве",
+	  "action": "ban",
+	  `dbId`: "38"
+    },
+    {
+	  "id": "76561199101995339",
+      "name": "Уиил Смит",
+      "reason": "Обвинение в: Руинерстве, токсичности",
+	  "action": "ban",
+	  `dbId`: "39"
+    },
+    {
+      "id": "76561199079361558",
+      "name": "Товарищь Майор",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "40"
+    },
+    {
+	  "id": "76561198078539266",
+      "name": "Harry Potter",
+      "reason": "Обвинение в: Читах, токсичности",
+	  "action": "ban",
+	  `cheats`: "true",
+	  `dbId`: "41"
+    },
+    {
+      "id": "76561198031312706",
+      "name": "Альфонс",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "42"
+    },
+    {
+	  "id": "76561199227137731",
+      "name": "Склизкий Джо",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "43"
+    },
+    {
+	  "id": "76561198145953568",
+      "name": "DreamScape",
+      "reason": "Обвинение в: Руинерстве, токсичности",
+	  "action": "ban",
+	  `dbId`: "44"
+    },
+    {
+      "id": "76561199479359163",
+      "name": "алло гаргамель",
+      "reason": "Обвинение в: Руинерстве, токсичности",
+	  "action": "ban",
+	  `dbId`: "45"
+    },
+    {
+      "name": "бабшука шмегуэ",
+      "reason": "Обвинение в: Руинерстве, читах, токсичности",
+	  "action": "ban",
+	  `cheats`: "true",
+	  `dbId`: "46"
+    },
+    {
+	  "id": "76561199184973141",
+      "name": "Маркуш",
+      "reason": "Обвинение в: Руинерстве, токсичности, читах",
+	  "action": "ban",
+	  `cheats`: "true",
+	  `dbId`: "47"
+    },
+    {
+      "id": "76561199066597381",
+      "name": "slavenum13",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "48"
+    },
+    {
+      "id": "76561199445072402",
+      "name": "Гойда",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "49"
+    },
+    {
+      "id": "76561199583289196",
+      "name": "Harvey",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `dbId`: "51"
+    },
+    {
+      "id": "76561199016762458",
+      "name": "Alukard",
+      "reason": "Обвинение в: Токсичности",
+	  `mode`: `ban_or_life`,
+	  `delaySeconds`: 60,
+	  `dbId`: "00"
+    }
+  ]
+}
