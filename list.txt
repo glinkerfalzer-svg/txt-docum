@@ -5,6 +5,7 @@
       "name": "Robert_Hovton",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "2"
     },
     {
@@ -12,6 +13,7 @@
       "name": "Акромегалия",
       "reason": "Обвинение в: Руинерстве, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "3"
     },
     {
@@ -19,6 +21,7 @@
       "name": "valeriyukrain",
       "reason": "Обвинение в: Руинерстве, чрезмерной агрессии",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "4"
     },
     {
@@ -33,6 +36,7 @@
       "name": "Nentella",
       "reason": "Обвинение в: Руинертсве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "8"
     },
     {
@@ -40,6 +44,7 @@
       "name": "Lenny",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "9"
     },
     {
@@ -47,6 +52,7 @@
       "name": "Alex Nash",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "10"
     },
     {
@@ -54,12 +60,14 @@
       "name": "Vax",
       "reason": "Обвинение в: Руинерстве, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "11"
     },
     {
       "name": ".ЛЮХА!42_69!",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "12"
     },
     {
@@ -67,6 +75,7 @@
       "name": "Отморозь",
       "reason": "Обвинение в: Руинерстве, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "13"
     },
     {
@@ -74,12 +83,14 @@
       "name": "Перекрут проводов",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "15"
     },
     {
       "name": "Regur",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "16"
     },
     {
@@ -87,6 +98,7 @@
       "name": "Zivk",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "18"
     },
     {
@@ -94,6 +106,7 @@
       "name": "подзалупий",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "19"
     },
     {
@@ -101,6 +114,7 @@
       "name": "RobloxPlayer2010",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "21"
     },
     {
@@ -108,6 +122,7 @@
       "name": "FORTNITE_PLAYER_2012",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "22"
     },
     {
@@ -115,6 +130,7 @@
       "name": "adkrasov11",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "24"
     },
     {
@@ -122,6 +138,7 @@
       "name": "guso_char",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "25"
     },
     {
@@ -129,6 +146,7 @@
       "name": "NoWayToWin",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "26"
     },
     {
@@ -136,12 +154,14 @@
       "name": "Demid",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "27"
     },
     {
       "name": "Мамочка Шмэгуэ",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "29"
     },
     {
@@ -149,6 +169,7 @@
       "name": "Ryan Gosling",
       "reason": "Обвинение в: Токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "30"
     },
     {
@@ -156,6 +177,7 @@
       "name": "Капитан молочный зубик",
       "reason": "Обвинение в: Токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "31"
     },
     {
@@ -163,6 +185,7 @@
       "name": "Kolyalotok",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "33"
     },
     {
@@ -170,6 +193,7 @@
       "name": "Лягушка-попрыгуш",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "34"
     },
     {
@@ -177,6 +201,7 @@
       "name": "Рептилойд",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "35"
     },
     {
@@ -184,6 +209,7 @@
       "name": "JUSTRIP",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "36"
     },
     {
@@ -191,6 +217,7 @@
       "name": "laka",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "37"
     },
     {
@@ -198,6 +225,7 @@
       "name": "Ярослав (Stilport26)",
       "reason": "Обвинение в: Агрессии, руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "38"
     },
     {
@@ -205,6 +233,7 @@
       "name": "Уиил Смит",
       "reason": "Обвинение в: Руинерстве, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "39"
     },
     {
@@ -212,6 +241,7 @@
       "name": "Товарищь Майор",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "40"
     },
     {
@@ -219,6 +249,7 @@
       "name": "Harry Potter",
       "reason": "Обвинение в: Читах, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `cheats`: "true",
 	  `dbId`: "41"
     },
@@ -227,6 +258,7 @@
       "name": "Альфонс",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "42"
     },
     {
@@ -234,6 +266,7 @@
       "name": "Склизкий Джо",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "43"
     },
     {
@@ -241,6 +274,7 @@
       "name": "DreamScape",
       "reason": "Обвинение в: Руинерстве, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "44"
     },
     {
@@ -248,12 +282,14 @@
       "name": "алло гаргамель",
       "reason": "Обвинение в: Руинерстве, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "45"
     },
     {
       "name": "бабшука шмегуэ",
       "reason": "Обвинение в: Руинерстве, читах, токсичности",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `cheats`: "true",
 	  `dbId`: "46"
     },
@@ -262,6 +298,7 @@
       "name": "Маркуш",
       "reason": "Обвинение в: Руинерстве, токсичности, читах",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `cheats`: "true",
 	  `dbId`: "47"
     },
@@ -270,6 +307,7 @@
       "name": "slavenum13",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "48"
     },
     {
@@ -277,6 +315,7 @@
       "name": "Гойда",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "49"
     },
     {
@@ -284,6 +323,7 @@
       "name": "Harvey",
       "reason": "Обвинение в: Руинерстве",
 	  "action": "ban",
+	  `mode`: "auto",
 	  `dbId`: "51"
     },
     {
