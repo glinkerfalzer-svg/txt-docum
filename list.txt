@@ -27,7 +27,7 @@
     {
       "name": "LLLCATED",
       "reason": "Обвинение в: Руинерство, токсичность",
-	  `mode`: `ban_or_life`,
+	  `mode`: `ban`,
 	  `delaySeconds`: 30,
 	  `dbId`: "5"
     },
@@ -222,7 +222,7 @@
     },
     {
 	  "id": "76561198276153952",
-      "name": "Ярослав (Stilport26)",
+      "name": "Stilport26",
       "reason": "Обвинение в: Агрессии, руинерстве",
 	  "action": "ban",
 	  `mode`: "auto",
@@ -329,10 +329,34 @@
     {
       "id": "76561199016762458",
       "name": "Alukard",
-      "reason": "Обвинение в: Токсичности",
-	  `mode`: `ban_or_life`,
-	  `delaySeconds`: 60,
+      "reason": "Обвинение в: Токсичности, руинерстве",
+	  "action": "ban",
+	  `mode`: `auto`,
 	  `dbId`: "00"
+    }
+	{
+      "id": "76561199316445786",
+      "name": "quota",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "54"
+    }
+	{
+      "id": "76561198746389381",
+      "name": "roy4lek",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "55"
+    }
+	{
+      "id": "76561199197328173",
+      "name": "Lg",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "56"
     }
   ]
 }
