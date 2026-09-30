@@ -517,6 +517,22 @@
 	  "action": "ban",
 	  `mode`: `auto`,
 	  `dbId`: "75"
+    },
+    {
+      "id": "76561198999346865",
+      "name": "9 y.o zitraks mode",
+      "reason": "Обвинение в: Руинерстве",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "76"
+    },
+	{
+      "id": "76561199594620233",
+      "name": "tulen",
+      "reason": "Обвинение в: Руинерстве, Содействии руинерству",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "77"
     }
   ]
 }
