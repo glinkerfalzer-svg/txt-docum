@@ -533,6 +533,14 @@
 	  "action": "ban",
 	  `mode`: `auto`,
 	  `dbId`: "77"
+    },
+	{
+      "id": "76561199473772825",
+      "name": "dpakyjia1",
+      "reason": "Обвинение в: Читах",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "78"
     }
   ]
 }
