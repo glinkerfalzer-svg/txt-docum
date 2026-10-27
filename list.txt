@@ -541,6 +541,22 @@
 	  "action": "ban",
 	  `mode`: `auto`,
 	  `dbId`: "78"
+    },
+	{
+      "id": "76561198785753832",
+      "name": "ВанКАП В34",
+      "reason": "Обвинение в: Читах",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "79"
+    },
+	{
+      "id": "76561198689246068",
+      "name": "RICK PRIME",
+      "reason": "Обвинение в: Читах",
+	  "action": "ban",
+	  `mode`: `auto`,
+	  `dbId`: "80"
     }
   ]
 }
